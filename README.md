@@ -4,7 +4,7 @@ These are my reading notes
 # Growth Mindset 
 
 Growth mindset is the acceptance that consistency is required for growth. 
-Along with consistency comes with: 
+Along with consistency comes with:  
 - persistence
 - patience
 - learning from failures
