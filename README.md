@@ -15,3 +15,4 @@ Along with consistency comes with:
 - Look back at the overall progress
 - Talk to tutor or team mates about tricky tasks and likewise help people on my team
 - Focus on the bigger picture
+h
