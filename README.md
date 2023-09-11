@@ -7,8 +7,4 @@ Cool things you can do: lists
 - -1
 - -2
 - -3
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1| code blocks   |
-|     2|links          |
-|     3|dictionaries   |
+
