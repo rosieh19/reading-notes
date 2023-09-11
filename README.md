@@ -1,21 +1,17 @@
 # reading-notes
-These are reading notes 
+These are my reading notes
 
-What is markdown? 
-Cool things you can do:
-nested code blocks, code blocks, mark down is just text,
-headings
--code blocks
-  - nested lists
-  - nested code blocks
-checklists
-emhphasise text
-internal links
-quotes
-images
+# Growth Mindset 
 
-cool things you can do with mark down
--dictionares 
--documentation 
--recipes
--instructions/ guides
+Growth mindset is the acceptance that consistency is required for growth. 
+Along with consistency comes with: 
+- persistence
+- patience
+- learning from failures
+- accepting help to grow
+
+# How to keep myself in the growth mindset 
+- Remain consistent
+- Look back at the overall progress
+- Talk to tutor or team mates about tricky tasks and likewise help people on my team
+- Focus on the bigger picture
