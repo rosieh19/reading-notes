@@ -2,11 +2,7 @@
 These are reading notes 
 
 What is markdown? 
-Cool things you can do: lists
-- test
-- -1
-- -2
-- -3
+Cool things you can do:
 nested code blocks, code blocks, mark down is just text,
 headings
 -code blocks
